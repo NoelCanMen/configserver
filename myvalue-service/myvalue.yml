@@ -1,4 +1,4 @@
 server:
   port:8881
- some:
+some:
   value: valor del servidor
